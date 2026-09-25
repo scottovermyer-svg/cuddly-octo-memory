@@ -2,8 +2,7 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
-This is a test of the emergency broadcast system.  Casting broads can be challenging.
-Here's another line for you - boo hoo.
+[![Deploy to GitHub Pages](https://github.com/scottovermyer-svg/cuddly-octo-memory/actions/workflows/deploy.yml/badge.svg)](https://github.com/scottovermyer-svg/cuddly-octo-memory/actions/workflows/deploy.yml)
 
 ## Project Structure
 
