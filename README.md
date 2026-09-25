@@ -2,6 +2,9 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
+This is a test of the emergency broadcast system.  Casting broads can be challenging.
+Here's another line for you - boo hoo.
+
 ## Project Structure
 
 ```
